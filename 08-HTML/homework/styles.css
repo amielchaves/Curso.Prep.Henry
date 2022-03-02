@@ -1,0 +1,27 @@
+h1{color:rgb(255, 77, 231)}
+
+img{width: 400px;}
+
+#thirdDiv{height: 600px;
+         width: 500px;
+         background-color: rgb(255, 227, 232);
+         padding: 50px;
+         border: 30px solid rgb(255, 181, 181);}
+
+#spanId{font-size: 18px;
+         margin-top: 50px;}
+
+body{ height: 5px;
+    size: 500cm;
+    background-image: url(https://aprendecocina.club/wp-content/uploads/2021/07/Hamburguesonass.jpg
+   )
+}
+#flexbox{
+    align-items: center;
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    width: 200px;
+    background: #ffff99;
+    color: black;
+}

@@ -16,12 +16,3 @@ body{ height: 5px;
     background-image: url(https://aprendecocina.club/wp-content/uploads/2021/07/Hamburguesonass.jpg
    )
 }
-#flexbox{
-    align-items: center;
-    display: flex;
-    height: 100px;
-    justify-content: center;
-    width: 200px;
-    background: #ffff99;
-    color: black;
-}
